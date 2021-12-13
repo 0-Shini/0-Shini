@@ -10,8 +10,6 @@
 </div>
 
 ## 📚 Learning:
-<div>
-  ### Data structure
-  ### Algorithm
-  ### English
-<div>
+  ### - Data structure
+  ### - Algorithm
+  ### - English
